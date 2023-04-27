@@ -1,5 +1,5 @@
 # Stock-market-predictions
-STOCKMARKET-PREDICTIONS
+
 Predicting stock market prices is a complex task that traditionally involves extensive human-computer interaction. Due to the correlated nature of stock prices, conventional batch processing methods cannot be utilized efficiently for stock market analysis. We propose an online learning algorithm that utilizes a kind of recurrent neural network (RNN) called Long Short Term Memory (LSTM), where the weights are adjusted for individual data points using stochastic gradient descent. This will provide more accurate results when compared to existing stock price prediction algorithms. The main objective of this paper is to see in which precision a Machine learning algorithm can predict and how much the epochs can improve our model.
 
 Table of Contents
